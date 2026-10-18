@@ -4,7 +4,7 @@ Usa el mouse y el teclado de tu PC con Windows en tu celular o tablet Android, p
 
 [![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-WinConnect--Setup.exe-006BAF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/daphtronic-wq/win-connect/releases/latest/download/WinConnect-Setup.exe)
 
-Versión 0.4.0 · [Todas las versiones](https://github.com/daphtronic-wq/win-connect/releases)
+Versión 0.4.1 · [Todas las versiones](https://github.com/daphtronic-wq/win-connect/releases)
 
 Enlace directo para copiar (siempre la versión más reciente):
 
@@ -26,7 +26,7 @@ https://github.com/daphtronic-wq/win-connect/releases/latest/download/WinConnect
 El instalador todavía no está firmado digitalmente, así que Windows puede mostrar "Windows protegió tu PC". Para continuar: **Más información → Ejecutar de todas formas**.
 
 Verificación (SHA‑256):
-`6BC1A403EF3CA0550A0985BE39F42FD900B59C80DA891AECE924C92D3985CFD2` (versión 0.4.0)
+`203D45B11A8B489C859983FB74BD0C1E77E041C40CB601852AA7B232557FF2BB` (versión 0.4.1)
 
 ## Créditos
 La pantalla virtual usa [Virtual Display Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) (licencia MIT).
