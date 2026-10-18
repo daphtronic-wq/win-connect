@@ -1,4 +1,10 @@
+# Win Connect
+
 Usa el mouse y el teclado de tu PC con Windows en tu celular o tablet Android, por Wi‑Fi o Bluetooth, como si fuera otra pantalla.
+
+[![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-WinConnect--Setup.exe-006BAF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/daphtronic-wq/win-connect/releases/latest/download/WinConnect-Setup.exe)
+
+Versión 0.3.0 · [Todas las versiones](https://github.com/daphtronic-wq/win-connect/releases)
 
 ## Instalación
 1. Descarga **WinConnect-Setup.exe** y ejecútalo (pide permisos de administrador).
