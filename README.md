@@ -4,7 +4,7 @@ Usa el mouse y el teclado de tu PC con Windows en tu celular o tablet Android, p
 
 [![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-WinConnect--Setup.exe-006BAF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/daphtronic-wq/win-connect/releases/latest/download/WinConnect-Setup.exe)
 
-Versión 0.3.1 · [Todas las versiones](https://github.com/daphtronic-wq/win-connect/releases)
+Versión 0.4.0 · [Todas las versiones](https://github.com/daphtronic-wq/win-connect/releases)
 
 Enlace directo para copiar (siempre la versión más reciente):
 
@@ -15,7 +15,7 @@ https://github.com/daphtronic-wq/win-connect/releases/latest/download/WinConnect
 ## Instalación
 1. Descarga **WinConnect-Setup.exe** y ejecútalo (pide permisos de administrador). Si ya tienes Win Connect, se actualiza encima.
 2. Opcional: marca **Pantalla virtual del celular** para acomodar el celular en Configuración → Pantalla de Windows. Windows puede preguntarte si confías en "SignPath Foundation"; acepta para instalarla.
-3. En el celular instala la app **Win Connect para Android** y toca **Iniciar servicio**.
+3. En el celular instala la app [Win Connect para Android](https://daphtronic-wq.github.io/win-connect/WinConnect.apk) y toca **Iniciar servicio**.
 4. En el icono de Win Connect junto al reloj: **Conectar por Wi‑Fi** → elige tu celular → escribe el código que muestra la app.
 
 ## Requisitos
@@ -26,7 +26,7 @@ https://github.com/daphtronic-wq/win-connect/releases/latest/download/WinConnect
 El instalador todavía no está firmado digitalmente, así que Windows puede mostrar "Windows protegió tu PC". Para continuar: **Más información → Ejecutar de todas formas**.
 
 Verificación (SHA‑256):
-`15124A4A247DCE327FA90D01A07738AFDAC2A0451A988FDCCEBF10FAE10D0516` (versión 0.3.1)
+`6BC1A403EF3CA0550A0985BE39F42FD900B59C80DA891AECE924C92D3985CFD2` (versión 0.4.0)
 
 ## Créditos
 La pantalla virtual usa [Virtual Display Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) (licencia MIT).
